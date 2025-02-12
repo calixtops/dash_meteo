@@ -138,7 +138,7 @@ st.set_page_config(
     }
 )
 
-st.title("🌤️ Dashboard Meteorológico e de Energia Renovável")
+st.title("🌤️ Dashboard Meteorológico")
 
 # Seletor de cidade
 city_name = st.text_input("Digite o nome da cidade:", "Fortaleza")
